@@ -1,0 +1,10 @@
+unsloth
+unsloth-zoo
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+xformers
+datasets
+torch
